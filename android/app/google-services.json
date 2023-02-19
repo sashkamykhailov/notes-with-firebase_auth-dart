@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360550693777",
+    "project_id": "ffc-vandad",
+    "storage_bucket": "ffc-vandad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360550693777:android:a5e82f127f0062cd3f7830",
+        "android_client_info": {
+          "package_name": "com.example.fcc_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360550693777-m5a7qs4ghqf5gak8m17eeihu7o4v5vb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKsAZUO5nSE5pWZSxe5cWsvl4xoro4wM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360550693777-m5a7qs4ghqf5gak8m17eeihu7o4v5vb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
